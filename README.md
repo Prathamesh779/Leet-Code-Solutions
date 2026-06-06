@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0134-gas-station) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,5 +73,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
