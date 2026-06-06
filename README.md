@@ -44,4 +44,20 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
