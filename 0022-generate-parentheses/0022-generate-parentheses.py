@@ -1,0 +1,17 @@
+class Solution(object):
+    def generateParenthesis(self, n):
+        res = []
+
+        def dfs(openP, closeP, s):
+            if openP == closeP and openP + closeP == 2 * n:
+                res.append(s)
+                return
+
+            if openP < n:
+                dfs(openP + 1, closeP, s + "(")
+
+            if closeP < openP:
+                dfs(openP, closeP + 1, s + ")")
+
+        dfs(0, 0, "")
+        return res
