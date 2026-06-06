@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -45,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Tree
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
