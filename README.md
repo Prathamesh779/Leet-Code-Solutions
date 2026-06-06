@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
