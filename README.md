@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -69,10 +70,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
