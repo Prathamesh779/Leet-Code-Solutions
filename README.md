@@ -60,11 +60,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -75,6 +77,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0101-symmetric-tree) |
 ## Dynamic Programming
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
