@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
@@ -57,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
