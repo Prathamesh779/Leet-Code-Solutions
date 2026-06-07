@@ -49,12 +49,14 @@
 | [0008-string-to-integer-atoi](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Tree
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
