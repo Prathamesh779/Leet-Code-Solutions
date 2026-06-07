@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Greedy
 |  |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +84,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
