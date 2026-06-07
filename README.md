@@ -116,4 +116,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
