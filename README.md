@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
