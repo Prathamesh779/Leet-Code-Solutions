@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
@@ -102,6 +103,7 @@
 | [0022-generate-parentheses](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
 |  |
 | ------- |
