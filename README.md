@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -35,10 +36,12 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -121,6 +125,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -141,4 +146,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
