@@ -17,6 +17,7 @@
 | [0134-gas-station](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Greedy
@@ -36,6 +37,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -125,6 +127,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
