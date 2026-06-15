@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Counting
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +185,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
