@@ -80,6 +80,7 @@
 | [0048-rotate-image](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1025-divisor-game) |
 ## Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0053-maximum-subarray](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [1025-divisor-game](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -171,4 +173,12 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
