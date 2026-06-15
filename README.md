@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [0819-most-common-word](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0819-most-common-word) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -41,6 +42,7 @@
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [0819-most-common-word](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0819-most-common-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0179-largest-number) |
+| [0819-most-common-word](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0819-most-common-word) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0819-most-common-word](https://github.com/Prathamesh779/Leet-Code-Solutions/tree/master/0819-most-common-word) |
 ## Stack
 |  |
 | ------- |
